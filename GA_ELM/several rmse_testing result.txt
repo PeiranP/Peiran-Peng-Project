@@ -1,0 +1,22 @@
+GA_plus_ELM
+2.7469 NN=50, popsize=14
+2.1739 NN=50, popsize=10
+6.1033 NN=100, popsize=10
+2.6839 NN=10, popsize=12
+1.3119 NN=50, popsize=12
+2.7317 NN=60, popsize=12
+2.2335 NN=40, popsize=12, maxit=100
+1.2513 NN=50, popsize=12, maxit=110
+1.9702 NN=50, popsize=12, maxit=120,sigmoid
+0.7602 NN=50, popsize=12, maxit=110,sine
+0.5321 NN=50, popszie=12, maxit=110,sine
+0.5681 NN=50, popsize=12, maxit=105,sine
+0.9246 NN=50, popsize=12, maxit=105,sine
+0.7236 NN=50, popsize=12, maxit=105,sine
+hardlim has error when running 'rsquare'
+6.0810 NN=50, popsize=12, maxit=110,tribas
+1.4334e+03 NN=50, popsize=12, maxit=110,radbas
+184.8505 NN=50, popsize=12, maxit=110,radbas
+0.5167 NN=50, popsize=12, maxit=110,sine
+0.4994 NN=50, popsize=12, maxit=110, sine
+
